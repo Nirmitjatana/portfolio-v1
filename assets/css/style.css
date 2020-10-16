@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (min-width: 992px) {
   #main {
-    margin-left: 100px;
+    /* margin-left: 100px; */
     background-color: #000;
   }
 }
@@ -328,7 +328,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #45505b;
+  color: #fff;
 }
 
 .section-title h2::before {
@@ -355,6 +355,7 @@ section {
 
 .section-title p {
   margin-bottom: 0;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
@@ -363,7 +364,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #728394;
+  color: #fff;
 }
 
 .about .content ul {
@@ -439,7 +440,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #45505b;
+  color: #fff;
 }
 
 .skills .progress .skill .val {
@@ -448,7 +449,7 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #f2f3f5;
+  background: #fff;
 }
 
 .skills .progress-bar {
